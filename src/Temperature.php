@@ -3,7 +3,6 @@
 
 namespace Abbah\UnitConversions;
 
-
 class Temperature
 {
     private float $celsius;
