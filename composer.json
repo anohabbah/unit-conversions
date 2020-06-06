@@ -5,13 +5,13 @@
         "abbah",
         "unit-conversions"
     ],
-    "homepage": "https://github.com/spatie/php-package-skeleton",
+    "homepage": "https://github.com/anohabbah/unit-conversions",
     "license": "MIT",
     "authors": [
         {
             "name": "Abbah Anoh",
             "email": "anohabbah@gmail.com",
-            "homepage": "https://spatie.be",
+            "homepage": "https://twitter.com/abbahanoh",
             "role": "Developer"
         }
     ],
