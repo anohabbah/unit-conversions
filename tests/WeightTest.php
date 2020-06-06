@@ -2,8 +2,8 @@
 
 namespace Abbah\UnitConversions\Tests;
 
-use PHPUnit\Framework\TestCase;
 use Abbah\UnitConversions\Weight;
+use PHPUnit\Framework\TestCase;
 
 class WeightTest extends TestCase
 {
@@ -12,6 +12,6 @@ class WeightTest extends TestCase
     {
         $lbs = Weight::fromKilograms(100)->toLbs();
 
-        $this->assertEquals(220.4623,$lbs);
+        $this->assertEquals(220.4623, $lbs);
     }
 }
