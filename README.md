@@ -1,8 +1,8 @@
 # A PHP package for unit conversions
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/php-package-skeleton.svg?style=flat-square)](https://packagist.org/packages/spatie/php-package-skeleton)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/spatie/php-package-skeleton/run-tests?label=tests)](https://github.com/spatie/php-package-skeleton/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/spatie/php-package-skeleton.svg?style=flat-square)](https://packagist.org/packages/spatie/php-package-skeleton)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/abbah/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/abbah/unit-conversions)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/anohabbah/unit-conversions/run-tests?label=tests)](https://github.com/anohabbah/unit-conversions/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Total Downloads](https://img.shields.io/packagist/dt/abbah/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/abbah/unit-conversions)
 
 
 This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
